@@ -7,7 +7,7 @@
 //     p = a * 4;
 // console.log(`Kvadratning tomoni: ${a}\nUning perimetri: ${p}`)
 
-// Begin 2 . Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin. S = a 2;
+// Begin 2 . Kvadratning tomoni a berilgan. Uning yuzasi aniqlansin. S = a ** 2;
 // let a = 10,
 //     s = a ** 2;
 // console.log(`Kvadratning tomoni:${a}\n Yuzasi:${s}`)
@@ -19,8 +19,16 @@
 //     p = 2 * (a + b);
 // console.log(`Tomonlari : ${a} va ${b}\nYuzasi: ${s}\nPerimetri:${p}`)
 
-//Begin 4 . Aylananing diametri d berilgan.Uning uzunligi aniqlansin Formula L = p * d ; p = 3.14
+// Begin 4 . Aylananing diametri d berilgan.Uning uzunligi aniqlansin Formula L = p * d ; p = 3.14
 // const p = 3.14;
 // let d = 18,
 //     l = p * d;
 // console.log(`Diametri:${d}\nUzunligi:${l}`)
+
+// Begin 5 . Kubning yon tomoni a berilgan. Uning hajmini V = a ** 3 va to'la sirti S = 6 * a**2 aniqlansin
+// let a = 17,
+//     v = a ** 3,
+//     s = 6 * (a ** 2);
+// console.log(`Yon tomoni:${a} \nHajmi:${v}\nTo'la sirti: ${s}`)
+
+//
