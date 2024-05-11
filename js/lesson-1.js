@@ -50,4 +50,18 @@
 // console.log(`Berilgan sonlar: ${a} va ${b} \n Ularning o'rta arifmetigi: ${x}`)
 
 //Begin 9 .Ikkita manfiy bo'lmagan son a va b berilgan .Ularning o'rta geometrigi aniqlansin ildiz ostida a* b;
+// let a = 10, b = 8;
+// console.log(Math.round(Math.sqrt(a * b)))
 
+//Begin  10 . Nolga teng bo'lmagan ikkita son berilgan .Ularning yig'indisi , ko'paytmasi va har birining kvadrati aniqlansin;
+// let a = 2, b = 12;
+// let add = a + b;
+// let multiple = a * b;
+// let firstNumber = Math.pow(a, 2);
+// let secondNumber = Math.pow(b, 2);
+// console.log(`Ikkita son: ${a} va ${b}\nYigindisi:${add}\nKo'paytmasi:${multiple}\nBirinchi son kvadrati:${firstNumber}\nIkkinchi son kvadrati:${secondNumber}`) 
+
+//Begin 11 . Nolga teng bo'lmagan ikkita son berilgan .Ularning yig'indisi , ko'paytmasini va har birining moduli aniqlansin
+// let a = 7 , b = 10;
+// let add = a + b;
+// let multiple = a * b; 
