@@ -31,4 +31,23 @@
 //     s = 6 * (a ** 2);
 // console.log(`Yon tomoni:${a} \nHajmi:${v}\nTo'la sirti: ${s}`)
 
-//
+// Begin 6 . Paralelepipedning tomonlari a ,b ,c berilgan .Uning hajmini V = a * b * c va to'la sirti S = 2 * (a * b + b*c + a*c) aniqlansin
+// let a = 5, b = 4, c = 7;
+// let v = a * b * c;
+// let s = 2 * (a * b + b * c + a * c);
+// console.log(`Tomonlari :${a} ;${b} ;${c} \nUning hajmi:${v}\nTo'la sirti:${s}`)
+
+// Begin 7 . Doiraning radiusi R berilgan.Uning uzunligi L va yuzasi S aniqlansin . L = 2 * p *r; S = p * r**2;
+// const p = 3.14
+// let r = 10;
+// let l = 2 * p * r;
+// let s = p * Math.pow(r, 2);
+// console.log(`Radiusi:${r} \nUzunligi:${l}\nYuzasi:${s}`)
+
+//Begin 8 . Ikkita son berilgan .Uning o'rta arifmetigi aniqlansin. (a + b)/2;
+// let a = 10, b = 8;
+// let x = (a + b) / 2;
+// console.log(`Berilgan sonlar: ${a} va ${b} \n Ularning o'rta arifmetigi: ${x}`)
+
+//Begin 9 .Ikkita manfiy bo'lmagan son a va b berilgan .Ularning o'rta geometrigi aniqlansin ildiz ostida a* b;
+
