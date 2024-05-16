@@ -68,3 +68,4 @@
 
 //Begin 12 . To'g'ri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin. c = {a2 + b2}    P = a +  b + c
 
+
