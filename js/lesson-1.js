@@ -65,3 +65,6 @@
 // let a = 7 , b = 10;
 // let add = a + b;
 // let multiple = a * b; 
+
+//Begin 12 . To'g'ri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin. c = {a2 + b2}    P = a +  b + c
+
