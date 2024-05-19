@@ -68,4 +68,16 @@
 
 //Begin 12 . To'g'ri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin. c = {a2 + b2}    P = a +  b + c
 
+// let a = 8, b = 6;
+// let c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
+// let p = a + b + c;
+// console.log(`A: ${a}\nB:${b}\nGipotenuzasi:${c}\nPerimetri:${p}`)
+
+
+//Begin 13 . Umumiy markazga bo'lgan ikkita aylanada radiusi berilgan.Ularning yuzalari S1 va S2 , ularning ayirmasi S3 aniqlansin.
+// let firstR = 8, secondR = 6, pi = 3.14;
+// let firstS = pi * firstR;
+// let secondS = pi * secondR;
+// let theThirdS = pi * (firstR - secondR);
+// console.log(`S1 yuzasi:${firstS}\nS2 yuzasi:${secondS}\nUlarning ayirmasi:${theThirdS}`)
 
