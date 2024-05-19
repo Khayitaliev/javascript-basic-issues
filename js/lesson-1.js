@@ -81,3 +81,5 @@
 // let theThirdS = pi * (firstR - secondR);
 // console.log(`S1 yuzasi:${firstS}\nS2 yuzasi:${secondS}\nUlarning ayirmasi:${theThirdS}`)
 
+//Begin 14 . Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin. L = 2 * pi * R   S = pi * r2;      pi = 3.14;
+// let l = 10, pi = 3.14;
