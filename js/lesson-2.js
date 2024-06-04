@@ -17,3 +17,10 @@
 // console.log(`${file} bayt  ${parseToKb}kb ga teng`)
 
 //Integer 4 . A va B (A > B) musbat sonlari berilgan. A kesmada B kesmani necga marta joylashtirish mumkinligini aniqlovchi programma tuzilsin
+
+let age = +prompt("Yoshingizni kiriting");
+if (age < 18) {
+    alert("Yoshingiz 18 dan kichkina")
+} else {
+    alert("Dasturga hush kelibsiz")
+}
